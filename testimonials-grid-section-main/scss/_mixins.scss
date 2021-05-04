@@ -1,0 +1,20 @@
+@mixin grid() {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.29);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.29);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.29);
+}
+
+@mixin images($border) {
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+  width: 35px;
+  height: 35px;
+  border: $border;
+}
+
+@mixin textColor($color) {
+  color: $color;
+}
