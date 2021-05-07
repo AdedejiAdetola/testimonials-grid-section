@@ -92,4 +92,3 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 
 
-https://adedejiadetola.github.io/testimonials-grid-section/testimonials-grid-section-main/
